@@ -1,3 +1,2 @@
 bar
-bad
-bad
+some-change
